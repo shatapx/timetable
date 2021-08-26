@@ -1,0 +1,7 @@
+@import "~materialize-css/dist/css/materialize.min.css";
+
+
+input.validate{
+    color: #fff;
+    box-shadow: 0 1px 0 0 #fff;
+}
